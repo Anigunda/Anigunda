@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Anil Goud Gunda</span> 👋</h1>
-<p align="center">🌟 Dynamic professional blending <strong>accounting, finance, and data engineering</strong> expertise to drive innovative solutions 🌟</p>
+<p align="center">🌟 Dynamic professional blending <strong>accounting, finance, and data and solutions delivery</strong> expertise to drive innovative solutions 🌟</p>
 
 ---
 
